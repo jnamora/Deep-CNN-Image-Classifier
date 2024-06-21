@@ -1,5 +1,6 @@
 # Image Classification Project - Competition Winner
 This project was developed as part of a competition on Kaggle's AML 2024 Project 1, where it secured the top position.
+https://www.kaggle.com/competitions/aml-2024-project1/leaderboard
 
 # Project Overview
 The main objective of this project was to compare the performance of different neural network architectures in the context of image classification. The project focused on:
