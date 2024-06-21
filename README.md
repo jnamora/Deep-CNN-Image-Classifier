@@ -8,4 +8,5 @@ The main objective of this project was to compare the performance of different n
 # Benchmarking MLP vs. CNN: 
 
 Initially, I benchmarked the performance of a Multi-Layer Perceptron (MLP) against Convolutional Neural Networks (CNNs).
-Performance Comparison with EfficientNet: Subsequently, I compared the performance of my custom CNN model with the state-of-the-art EfficientNet architecture by Google.
+
+Subsequently, I compared the performance of my winning CNN model with the state-of-the-art EfficientNet architecture by Google.
